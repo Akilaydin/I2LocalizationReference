@@ -1,0 +1,16 @@
+{
+    "name": "LocalizationExtension",
+    "rootNamespace": "",
+    "references": [
+        "GUID:009037e1675f71b4a80e703cb737ae44"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
